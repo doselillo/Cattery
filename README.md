@@ -1,3 +1,3 @@
 # Cattery
 
-Small project to practice RecyclerViews
+Small project to practice RecyclerViews and Tests
